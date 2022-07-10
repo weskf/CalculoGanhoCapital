@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoGanhoCapital", "CalculoGanhoCapital\CalculoGanhoCapital.csproj", "{0C3293AF-0D96-4861-A3B9-9C1C23D1F2BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoGanhoCapital.Test", "CalculoGanhoCapital.Test\CalculoGanhoCapital.Test.csproj", "{35D4BAA2-9231-4CA3-AF5C-1410FE1360B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C3293AF-0D96-4861-A3B9-9C1C23D1F2BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3293AF-0D96-4861-A3B9-9C1C23D1F2BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3293AF-0D96-4861-A3B9-9C1C23D1F2BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3293AF-0D96-4861-A3B9-9C1C23D1F2BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35D4BAA2-9231-4CA3-AF5C-1410FE1360B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D4BAA2-9231-4CA3-AF5C-1410FE1360B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D4BAA2-9231-4CA3-AF5C-1410FE1360B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D4BAA2-9231-4CA3-AF5C-1410FE1360B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {503D3FF3-1EEE-45B4-9F3A-1107174CD998}
+	EndGlobalSection
+EndGlobal
